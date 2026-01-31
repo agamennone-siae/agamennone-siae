@@ -40,7 +40,7 @@ A C++ homomorphic encryption framework for secure neural network inference.
 ## 💼 Skills & Interests
 
 * **Languages & Frameworks:** C++, Java, TypeScript, Node.js, Python, SQL
-* **Systems & Tools:** Docker, Kafka, Microservices, CI/CD pipelines
+* **Systems & Tools:** Docker, Kafka, Kubernetes/Openshift, CI/CD pipelines
 * **Research & Specialties:** Homomorphic encryption, secure ML inference, distributed architectures, static analysis
 
 ---
