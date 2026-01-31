@@ -11,17 +11,17 @@ I contribute to open source projects and build frameworks that improve **efficie
 
 ### 📌 Key Repositories
 
-#### • **CryptoCortext**
-
-A C++ homomorphic encryption framework for secure neural network inference.
-*Stack:* C++, CMake, HElib
-[Explore →](https://github.com/agamennone-siae/CryptoCortext)
-
 #### • **KafkaCartographer**
 
 Static analysis tool mapping Kafka topic usage in Java codebases — ideal for **visualizing complex event-driven systems**.
 *Stack:* Java, Docker
 [Explore →](https://github.com/agamennone-siae/KafkaCartographer)
+
+#### • **CryptoCortext**
+
+A C++ homomorphic encryption framework for secure neural network inference.
+*Stack:* C++, CMake, HElib
+[Explore →](https://github.com/agamennone-siae/CryptoCortext)
 
 ---
 
