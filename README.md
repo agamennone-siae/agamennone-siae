@@ -1,8 +1,10 @@
 # 👋 Hi, I’m Pierpaolo Agamennone
 
-**Software Engineer | Backend & Systems | Open Source Contributor**
+**Platform & Cloud Engineer | Distributed Systems | Open Source Contributor**
 
-I focus on **secure computation, distributed systems, and developer tooling**.
+I design and build **cloud-native platforms** that make it easier and safer for teams to ship software at scale.
+My work focuses on **automation, reliability, and secure-by-default infrastructure**, spanning Kubernetes-based platforms, CI/CD pipelines, and developer tooling.
+
 I contribute to open source projects and build frameworks that improve **efficiency, reliability, and security** in software systems.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
