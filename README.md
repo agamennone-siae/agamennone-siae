@@ -48,7 +48,7 @@ A C++ homomorphic encryption framework for secure neural network inference.
 
 * **Languages & Frameworks:** C++, Java, TypeScript, Node.js, Python, SQL
 * **Databases & Storage:** PostgreSQL, MySQL, Oracle, MongoDB, DynamoDB, ElasticSearch
-* **Systems & Tools:** Docker, Kafka, Kubernetes/Openshift, CI/CD pipelines
+* **Systems & Tools:** Docker, Kafka, RabbitMQ, Kubernetes/Openshift, CI/CD pipelines
 * **Research & Specialties:** distributed architectures, Generative AI, secure ML inference
 
 ---
