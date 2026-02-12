@@ -5,7 +5,7 @@
 I design and build **cloud-native platforms** that make it easier and safer for teams to ship software at scale.
 My work focuses on **automation, reliability, and secure-by-default infrastructure**, spanning Kubernetes-based platforms, CI/CD pipelines, and developer tooling.
 
-I contribute to open source projects and build frameworks that improve **efficiency, reliability, and security** in software systems.
+I contribute to open source projects and build tools that improve **efficiency, reliability, and security** in software systems.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
