@@ -20,7 +20,7 @@ I contribute to open source projects and build tools that improve **efficiency, 
 
 #### • **KafkaCartographer**
 
-Static analysis tool mapping Kafka topic usage in Java codebases — ideal for **visualizing complex event-driven systems**.
+Static analysis tool mapping Kafka topic usage in Java codebases, ideal for **visualizing complex event-driven systems**.
 *Stack:* Java, Docker
 [Explore →](https://github.com/agamennone-siae/KafkaCartographer)
 
