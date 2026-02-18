@@ -37,7 +37,7 @@ A C++ homomorphic encryption framework for secure neural network inference.
 🚀 **Sequelize ORM** *(Node.js & TypeScript ORM)*
 
 * **Pull Request:** *feat(core): add native UNION support via `sequelize.union`* (#18110)
-* Adds **native SQL UNION support**, improving query expressiveness and compatibility.
+* Adds **native SQL UNION support**, improving query compatibility.
   [See PR →](https://github.com/sequelize/sequelize/pull/18110)
 
 💡 I actively contribute to open source, helping projects **scale safely and efficiently**.
